@@ -10,14 +10,13 @@
   "rules": {
     "quotemark": [true, "single", "jsx-single", "backtick"],
     "arrow-parens": true,
-    "interface-over-type-literal":false,
+    "interface-over-type-literal": false,
     "no-bitwise": false,
     "eofline": false,
     "no-console": false,
     "arrow-return-shorthand": false,
     "object-literal-sort-keys": false,
     "ordered-imports": false,
-    "no-default-export": true,
     "member-ordering": [
       true,
       {
