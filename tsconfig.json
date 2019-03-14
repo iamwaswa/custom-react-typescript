@@ -17,7 +17,15 @@
     "importHelpers": true,
     "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
-    "noUnusedLocals": true
+    "noUnusedLocals": true,
+    "types": [
+      "jest",
+      "jest-diff",
+      "react",
+      "react-dom",
+      "react-router-dom",
+      "styled-components"
+    ]
   },
   "exclude": [
     "node_modules",
